@@ -1,0 +1,15 @@
+# Criar ambiente virtual
+python -m venv .venv
+
+# Ativar (Windows)
+.venv\Scripts\activate
+
+# Instalar pacotes no ambiente virtual
+pip install nome_do_pacote
+
+# Install the requirements
+pip install --upgrade pip
+pip install -r requirements.txt
+
+#Deactivate the virtual environment (optional)
+deactivate
