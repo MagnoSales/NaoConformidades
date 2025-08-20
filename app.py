@@ -11,7 +11,9 @@ st.set_page_config(
 )
 
 # --- Carregamento dos dados ---
-df = pd.read_excel(r"C:\Users\Magno\OneDrive\Personal\Caio\Checklist das pendencias.xlsx", sheet_name='preparada')
+url = 'https://raw.githubusercontent.com/MagnoSales/NaoConformidades/refs/heads/main/Checklistdaspendencias.csv'
+df = pd.read_csv(url, sep=";", encoding="utf-8-sig")
+df.columns = df.columns.str.strip()
 df['Desc_gravidade'] = df['Gravidade'].apply(lambda x: 'Baixa' if x == 1 else ('Media' if x == 2 else ('Alta' if x == 3 else 'erro')))
 #print(df.head())
 
@@ -37,7 +39,7 @@ responsavel_selecionados = st.sidebar.multiselect("Responsavel",
                                                default=responsavel)
 
 # filtro de elevador
-equipamento = sorted(df['Elevador_ Local'].unique())
+equipamento = sorted(df['Elevador_Local'].unique())
 equipamento_selecionados = st.sidebar.multiselect("Equipamento", 
                                                equipamento, 
                                                default=equipamento)
@@ -48,7 +50,7 @@ equipamento_selecionados = st.sidebar.multiselect("Equipamento",
 df_filtrado = df[
     (df['Local'].isin(locais_disponiveis_selecionados)) &
     (df['Desc_gravidade'].isin(gravidade_selecionados)) &
-    (df['Elevador_ Local'].isin(equipamento_selecionados)) &
+    (df['Elevador_Local'].isin(equipamento_selecionados)) &
     (df['Responsável'].isin(responsavel_selecionados))    
 ]
 
@@ -146,6 +148,4 @@ with col_graf2:
 
 # --- Tabela de Dados Detalhados ---
 st.subheader("Dados Detalhados")
-
 st.dataframe(df_filtrado)
-
