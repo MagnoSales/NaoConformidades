@@ -1,0 +1,74 @@
+﻿Local;Elevador_ Local;Categoria;Descrição_da_Pendência;Ação_Recomendada;Responsável;Gravidade
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Material de manutenção mal armazenado;Manter material de apoio das manutenções em local adequado. Risco de acidentes em situações de emergência.;Otis;1
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Porta de acesso da casa de máquinas fora de norma.;Instalar uma porta de material incombustível do tipo porta corta fogo, com medidas mínimas de 70 cm x 200 cm, para acesso à casa de máquinas, (NBR-NM 207, item 6.3.3.1). A porta deverá abrir para fora (não obstruir a rota de fuga), ter fechadura com chave e fechamento com travamento autônomo. Incluir os avisos: PERIGO: MÁQUINAS DO ELEVADOR e ACESSO PROIBIDO A PESSOAS ESTRANHAS AO SERVIÇO.;Cliente;2
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Ventilação deficiente e janela fora de norma;A casa de máquinas deverá ser ventilada adequadamente, com ventilação natural e cruzada (NBR-NM 207, item 6.3.5.1), garantindo a funcionalidade dos equipamentos do elevador e a segurança e conforto dos nossos colaboradores autorizados ao acesso do local. Dois ou mais caixilhos para ventilação, cada um deles instalado em paredes distintas na casa de máquinas, devem ser usados para promover o cruzamento da ventilação natural. Estes caixilhos devem ter dimensões mínimas e efetivas correspondentes a 10% da área total do piso e devem estar localizados nas faces da casa de máquinas que se dão para o meio externo. A temperatura ambiente da casa de máquinas deverá ser mantida entre + 5°C e + 40°C (NBR-NM 207, item 6.3.5.2 e instrução nº 01 do GEM-RJ). Corrigir para adequação da ventilação da casa de máquinas.;Cliente;1
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Sobra da modernização depositada no interior da casa de máquinas;Realizar descarte correto.;Otis;1
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Falta uma alavanca para abertura do freio;Item de segurança, regularizar. Necessário uma alavanca por máquina de tração.;Otis;3
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Luminária com baixa iluminação;Substituir luminária.;Cliente;3
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Falta iluminação de emergência sobre as máquinas de tração;Instalar iluminação de emergência;Cliente;3
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Falta ganchos para içamentos;Instalar  ganchos do teto para etiqueta de teste de carga.;Cliente;1
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Quadro de força de alimentação elétrica da casa de máquinas, fora de norma.;Verificar escopo da modernização e providenciar correção. Item de segurança, sem aterramento adequado.;Otis/ Cliente;3
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Iluminação monofásica não está separada por elevador e sem disjuntor DR;Remover jumper e providenciar correção, assim como instalação do DR.;Otis/ Cliente;3
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Cabo elétrico comprometido - quadro de força;Realizar revisão geral do quadro de forças com as adequações necessárias.;Otis/ Cliente;3
+Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Simulação de quadro elétrico em conformidade com as normas atuais.;Corrigir e estabelecer sistema de aterramento TN-S – Valor da Resistencia Ohmica do aterramento deve ser menor ou igual a 10 ohms. Aterramento individual para cada equipamento.;Otis/ Cliente;3
+Praia do Flamengo 116;Elevador Social 1;Máquina de Tração;Suporte do encoder inadequado, suporte atual não estabilizar o dispositivo de forma satisfatória.;Corrigir para evitar falhas de leitura do encoder.;Otis;2
+Praia do Flamengo 116;Elevador Social 1;Máquina de Tração;Ausência de contatos de segurança do freio da máquina de tração.;Item de segurança, instalar – verificar escopo da modernização.;Otis;3
+Praia do Flamengo 116;Elevador Social 1;Máquina de Tração;Máquina de tração com óleo velho e ou misturado.;Item de segurança, Substituir todo óleo da caixa de redução, assim como colar etiqueta com a data da substituição e orientação da data da próxima troca de óleo.;Otis;3
+Praia do Flamengo 116;Elevador Social 1;Máquina de Tração;Máquina de tração com sinais de vazamento.;Eliminar vazamentos da máquina de tração.;Otis;3
+Praia do Flamengo 116;Elevador Social 1;Máquina de Tração;Polia de tração com desgaste;Substituir polia.;Otis;2
+Praia do Flamengo 116;Elevador Social 1;Máquina de Tração;Falta lubrificação nos mancais da máquina de tração;Trocar buchas dos mancais e manter lubrificação adequado.;Otis;3
+Praia do Flamengo 116;Elevador Social 1;Motor;Motor com elevador ruído na operação;Solicitar reparo urgente.;Otis;3
+Praia do Flamengo 116;Elevador Social 1;Limitador de Velocidade;Limitador de velocidade;Solicitar teste de funcionamento com emissão de relatório.;Otis;1
+Praia do Flamengo 116;Elevador Social 1;Fiação;Fiação do quadro de comando para caixa de corrida.;Melhorar a organização e remover o cabos sem utilização.;Otis;1
+Praia do Flamengo 116;Elevador Social 1;Porta de Cabina;Porta de cabina;Regular fechamento da porta de cabina, batendo no fechamento - ajustar redução de abertura e fechamento.;Otis;2
+Praia do Flamengo 116;Elevador Social 1;Portas de Pavimento;Mola das portas de pavimento;Ajustar mola dos 6º, 5º e 4º andares.;Otis;2
+Praia do Flamengo 116;Elevador Social 1;Nivelamento;Desnivelamento de parada;Ajustar nivelamento 9°, 7º andares.;Otis;2
+Praia do Flamengo 116;Elevador Social 1;Cabos de Tração;Cabos de tração espelhados;Substituir, cabo espelhado é um dos critérios de descarte. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador Social 1;Topo de Cabina;Topo de cabina do elevador;Melhorar organização e tampar caixa de plugação.;Otis;1
+Praia do Flamengo 116;Elevador Social 1;Operador de Porta de Cabina;Operador de porta de cabina;Avaliar escopo de modernização.;Otis/ Cliente;2
+Praia do Flamengo 116;Elevador Social 1;Porta de Pavimento;Porta de pavimento do 8º andar;Reparar, Porta fora de esquadro.;Otis;2
+Praia do Flamengo 116;Elevador Social 1;Fundo do Poço;Fundo do poço do elevador;Limpar e realizar a pintura do poço e marcação de segurança. Item de segurança.;Otis;1
+Praia do Flamengo 116;Elevador Social 1;Botão;Botão do primeiro pavimento com defeito;Substituir.;Otis;2
+Praia do Flamengo 116;Elevador Social 2;Máquina de Tração;Máquina de tração com vazamentos;Solicitar equipe de reparo. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador Social 2;Máquina de Tração;Caixa de redução com óleo velho e ou misturado;Substituir todo óleo da caixa de redução e colar etiqueta com a data da troca e a orientação da próxima troca de óleo.;Otis;3
+Praia do Flamengo 116;Elevador Social 2;Máquina de Tração;Suporte do econder;Corrigir suporte do encoder, componente trabalhando com muita interferência.;Otis;2
+Praia do Flamengo 116;Elevador Social 2;Freio de Segurança;Ausência dos contatos do freio de segurança;Item de segurança, instalar – verificar escopo da modernização realizada.;Otis;3
+Praia do Flamengo 116;Elevador Social 2;Limitador de Velocidade;Limitador de velocidade;Item de segurança. Limitador de velocidade operando com barulho, necessário avaliação, correção e teste do dispositivo.;Otis;3
+Praia do Flamengo 116;Elevador Social 2;Cabos de Tração;Cabos de tração espelhados;Item de segurança. Substituir.;Otis;3
+Praia do Flamengo 116;Elevador Social 2;Fecho Eletromecânico;Fecho eletromecânico.;Recomendo a substituição do trinco do primeiro pavimento e dos demais andares, por modelo mais atual. Objetivo é aumentar a confiabilidade e disponibilidade do elevador. – verificar escopo da modernização realizada, pois os fechos do social 01 forma substituídos.;Otis/ Cliente;2
+Praia do Flamengo 116;Elevador Social 2;Porta de Cabina;Porta de cabina;Melhorar ajuste de fechamento da porta de cabina.;Otis;1
+Praia do Flamengo 116;Elevador Social 2;Fecho Eletromecânico;Fecho eletromecânico do 10º andar.;Item de segurança. Substituir trinco do 10° andar.;Otis;3
+Praia do Flamengo 116;Elevador Social 2;Porta de Pavimento;Mola da porta de pavimento do 5º andar;Ajustar dispositivo.;Otis;1
+Praia do Flamengo 116;Elevador Social 2;Fundo do Poço;Fundo do poço do elevador;Limpar e realizar a pintura do poço e marcação de segurança. Item de segurança.;Otis;1
+Praia do Flamengo 116;Elevador Social 2;Guias;Guias do elevador;Verificar emendas de guia, batidas pelo percurso.;Otis;2
+Praia do Flamengo 116;Elevador Social 2;Operador de Porta de Cabina;Operador de porta de cabina;Avaliar escopo de modernização do operador de porta de cabina.;Otis/ Cliente;2
+Praia do Flamengo 116;Elevador de Serviço;Casa de Máquinas;Casa de máquinas elevador de serviço;Gancho da casa de máquinas sem marcação de carga e sem etiqueta de teste. Item de segurança.;Cliente;1
+Praia do Flamengo 116;Elevador de Serviço;Casa de Máquinas;Quadro de força da casa de máquinas;Layout do quadro de força em conformidade com a norma. Necessário garantir que aterramento está no padrão TN-S.;Otis/ Cliente;3
+Praia do Flamengo 116;Elevador de Serviço;Casa de Máquinas;Ausência da proteção da polia de tração.;Posicionar.;Otis;1
+Praia do Flamengo 116;Elevador de Serviço;Máquina de Tração;Vazamento na máquina de tração;Eliminar vazamento da máquina de tração. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Freio de Segurança;Ausência dos contatos de freio da máquina de tração.;Instalar contatos. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Máquina de Tração;Falta de lubrificação nos mancais da máquina de tração;Substituir buchas dos mancais. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Máquina de Tração;Suporte do encoder;Corrigir suporte do encoder, componente trabalhando com muita interferência.;Otis;2
+Praia do Flamengo 116;Elevador de Serviço;Cabos de Tração;Cabos de tração sem equalizar;Equalizar cabos de tração, avaliar necessidade de substituição da polia de tração.;Otis;2
+Praia do Flamengo 116;Elevador de Serviço;Máquina de Tração;Óleo da máquina de tração;Substituir todo óleo da caixa de redução e colar etiqueta com a data da troca e a orientação da próxima troca de óleo.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Limitador de Velocidade;Limitador de velocidade;Realizar teste de funcionamento com emissão de laudo. Item de segurança.;Otis;1
+Praia do Flamengo 116;Elevador de Serviço;Iluminação;Ausência da iluminação de emergência.;Instalar. Item de segurança.;Cliente;3
+Praia do Flamengo 116;Elevador de Serviço;Janela;Janela da casa de máquinas fora de norma;Regularizar.;Cliente;1
+Praia do Flamengo 116;Elevador de Serviço;Cabos de Tração;Cabos de tração espelhados e enferrujados;Substituir. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Laje;Laje da casa de máquinas;Verificar e reparar estrutura da laje da casa de máquinas.;Otis/ Cliente;2
+Praia do Flamengo 116;Elevador de Serviço;Topo de Cabina;Topo de cabina;Realizar tratamento/ revitalização do topo de cabina.;Otis/ Cliente;2
+Praia do Flamengo 116;Elevador de Serviço;Porta de Cabina;Roldana da porta de cabina desalinhada;Corrigir.;Otis;2
+Praia do Flamengo 116;Elevador de Serviço;Rampa Eletromagnética;Suporte rampa eletromagnética;Corrigir urgente suporte da rampa. Item de segurança. Porca não compatível com a barra roscada.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Puxador;Puxador do 9° andar sem parafuso;Corrigir. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Nivelamento;Nivelamento de parada;Corrigir e ajustar em todos os andares. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Fecho Eletromecânico;Haste do trinco do 7° andar adaptado, risco alto de falha;Corrigir urgente. Item de segurança.;Otis;3
+Praia do Flamengo 116;Elevador de Serviço;Porta de Pavimento;Porta de pavimento;Avaliar serviço de revitalização.;Otis/ Cliente;1
+Praia do Flamengo 116;Elevador de Serviço;IPD de Pavimento;IPD de pavimento do 5° andar inoperante;Corrigir.;Otis;1
+Praia do Flamengo 116;Elevador de Serviço;Fecho Eletromecânico;Fecho eletromecânico do 4º andar;Ajustar. Porta travando.;Otis;1
+Praia do Flamengo 116;Elevador de Serviço;Porta de Pavimento;Porta de pavimento do 4º andar;Reparar roldana da porta de pavimento do 4° andar.;Otis;1
+Praia do Flamengo 116;Elevador de Serviço;Fecho Eletromecânico;Fecho eletromecânico do 1º andar;Ajustar. Porta travando.;Otis;1
+Praia do Flamengo 116;Elevador de Serviço;Painéis de Cabina;Painéis de cabina;Avaliar serviço de revitalização.;Otis/ Cliente;1
+Praia do Flamengo 116;Elevador de Serviço;Guias;Guias do equipamento;Limpar. Guias com grande sujidade.;Otis;4
+Praia do Flamengo 116;Elevador de Serviço;Limites Inferiores;Limites inferiores;Limites não substituídos na modernização – verificar escopo da modernização contratada.;Otis;2
+Praia do Flamengo 116;Elevador de Serviço;Fundo do Poço;Fundo do poço;Limpar.;Otis;2
+Praia do Flamengo 116;Elevador de Serviço;Cabo do Limitador de Velocidade;Cabo do limitador de velocidade;Cabo empenado – Substituir.;Otis;3
