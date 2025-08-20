@@ -1,4 +1,4 @@
-﻿Local;Elevador_Local;Categoria;Descrição_da_Pendência;Ação_Recomendada;Responsável;Gravidade
+Local;Elevador_Local;Categoria;Descrição_da_Pendência;Ação_Recomendada;Responsável;Gravidade
 Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Material de manutenção mal armazenado;Manter material de apoio das manutenções em local adequado. Risco de acidentes em situações de emergência.;Otis;1
 Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Porta de acesso da casa de máquinas fora de norma.;Instalar uma porta de material incombustível do tipo porta corta fogo, com medidas mínimas de 70 cm x 200 cm, para acesso à casa de máquinas, (NBR-NM 207, item 6.3.3.1). A porta deverá abrir para fora (não obstruir a rota de fuga), ter fechadura com chave e fechamento com travamento autônomo. Incluir os avisos: PERIGO: MÁQUINAS DO ELEVADOR e ACESSO PROIBIDO A PESSOAS ESTRANHAS AO SERVIÇO.;Cliente;2
 Praia do Flamengo 116;Casa de Máquinas 1 e 2;Casa de Máquinas;Ventilação deficiente e janela fora de norma;A casa de máquinas deverá ser ventilada adequadamente, com ventilação natural e cruzada (NBR-NM 207, item 6.3.5.1), garantindo a funcionalidade dos equipamentos do elevador e a segurança e conforto dos nossos colaboradores autorizados ao acesso do local. Dois ou mais caixilhos para ventilação, cada um deles instalado em paredes distintas na casa de máquinas, devem ser usados para promover o cruzamento da ventilação natural. Estes caixilhos devem ter dimensões mínimas e efetivas correspondentes a 10% da área total do piso e devem estar localizados nas faces da casa de máquinas que se dão para o meio externo. A temperatura ambiente da casa de máquinas deverá ser mantida entre + 5°C e + 40°C (NBR-NM 207, item 6.3.5.2 e instrução nº 01 do GEM-RJ). Corrigir para adequação da ventilação da casa de máquinas.;Cliente;1
@@ -72,4 +72,5 @@ Praia do Flamengo 116;Elevador de Serviço;Guias;Guias do equipamento;Limpar. Gu
 Praia do Flamengo 116;Elevador de Serviço;Limites Inferiores;Limites inferiores;Limites não substituídos na modernização – verificar escopo da modernização contratada.;Otis;2
 Praia do Flamengo 116;Elevador de Serviço;Fundo do Poço;Fundo do poço;Limpar.;Otis;2
 Praia do Flamengo 116;Elevador de Serviço;Cabo do Limitador de Velocidade;Cabo do limitador de velocidade;Cabo empenado – Substituir.;Otis;3
+
 
